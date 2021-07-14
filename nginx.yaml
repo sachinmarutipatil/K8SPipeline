@@ -16,7 +16,7 @@ spec:
         app: web
     spec:
       containers:
-      - image: nginx:latest
+      - image: nginx:1.14.2
         name: mynginx
 
 ---
